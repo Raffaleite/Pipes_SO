@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716507485 source:/home/rafa/Documentos/teste/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+
